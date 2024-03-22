@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import { AuthProvider } from './Authenticate';
+
 import * as fcl from '@blocto/fcl';
 import { BrowserRouter } from 'react-router-dom';
 import * as _ from "./Authenticate";

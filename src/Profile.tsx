@@ -67,6 +67,7 @@ interface ProfileProps {
     nftsForSale: NFTItem[]; // Array of NFTs for sale
 }
 
+// placeholder if no NFTs
 const NoNFTsPlaceholder: React.FC<{ message: string }> = ({ message }) => {
     return (
         <div style={{}}>
