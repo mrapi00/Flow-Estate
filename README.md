@@ -2,12 +2,13 @@
 
 **Contributors:** Jim Williams, Mahmudul Rapi, Rafay Khan, Uzair Malik
 
-(Scroll down to Abstract)
+(Scroll down to Abstract for write-up/more information)
 
-## Demo here
+## Demo here of application
 
 ### [Link](https://youtu.be/mjKXdrwl4fY)
 
+## ** To build and run Application Locally **
 ## First, install dependencies with
 
 ### `npm install`
